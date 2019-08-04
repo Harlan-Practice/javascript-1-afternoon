@@ -3,12 +3,13 @@
 //Create a variable called myName that is a string data type
 
 //Code here
-
+var myName = "Har";
 //////////////////PROBLEM 2////////////////////
 
 //Create a variable called myAge that is a number data type
 
 //Code here
+myAge = 30;
 
 //////////////////PROBLEM 3////////////////////
 
